@@ -1,0 +1,11 @@
+.header {
+  height: 90px;
+}
+#logo-img {
+  width: 125px;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
